@@ -13,11 +13,11 @@ My app is called snake game. It's a game app for players who want to play snake 
 
 **Initial Landing View**
 
-[![image](https://media.git.generalassemb.ly/user/21811/files/0f7aee00-c1d9-11ea-9dad-de086a5c91fc)](https://github.com/BellaCheng28/snake-game/blob/main/1.png)
+![image](https://media.git.generalassemb.ly/user/21811/files/0f7aee00-c1d9-11ea-9dad-de086a5c91fc)
 
 **Results View**
 
-[![image](https://media.git.generalassemb.ly/user/21811/files/1a358300-c1d9-11ea-95da-6c14aefb0f18)](https://github.com/BellaCheng28/snake-game/blob/main/2.png)
+![image](https://media.git.generalassemb.ly/user/21811/files/0f7aee00-c1d9-11ea-9dad-de086a5c91fc)
 
 ## User Stories
 
