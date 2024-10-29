@@ -26,9 +26,9 @@ My app is called snake game. It's a game app for players who want to play snake 
 - As a player, I want to control snake movement with arrow keys,so that I can navigate it effectively.
 - As a player, I want  my snake eats food and grow longer ,so that i can see my progress
 - As a player, I want to display my score on the screen,so that I know my performance.
-- As a player,I want to know which level  stage i played.so that i know the snake game is easy or difficult .
--As a player, I want to know if the game is over when my snake collides with the wall or the snake 's own or other’s body,so that i know the game policy.
-- As a player I would like to be able to restart the game after a win, loss or tie.
+- As a player, I want to know which level  stage i played.so that i know the snake game is easy or difficult .
+- As a player, I want to know if the game is over when my snake collides with the wall or the snake 's own or other’s body,so that i know the game policy.
+- As a player, I would like to be able to restart the game after a win, loss or tie.
 - As a player, I want the UI to be engaging and out of the way so that I enjoy the experience of playing the game.\*\*
 
 #### Stretch Goals
