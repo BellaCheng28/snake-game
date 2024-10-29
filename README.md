@@ -53,15 +53,15 @@ Create your own table using this markdown table generator website:
 Do not neglect to plan, you will thank yourself later for being proactive!
 | Day        |    Task                                                       |    Blockers           |  Notes/ Thoughts                  
 |------------|---------------------------------------------------------------|-----------------------|-----------------------------------
-| Monday     | Think proposal and start to write draft                                               |  Write down my ideas on draft            
-| Tuesday    | Continue to wirte and think about the feasibility                                     |  Remove infeasible content                                    
-| Wednesday  | Set up environment and create html,css,js files                                       |  Connect with github                                               
-| Thursday   | Post proposal and start to write game                                                 |  Think about the game layout                                        
-| Friday     | Wirte basic scaffolding                                                               | Think about how to add more features                                
-| Monday     | Wirte more features and enrich the game content                                       | Check the effect of the features                                              
-| Tuesday    | Repeatedly test the running effect and smoothness of the game                         |  Invite partner to play and take advices                                         
-| Wednesday  | Improve game content and wirte MVP and stretch goals                                  |  Test the game and check                                         
-| Thursday   | Presentation Day!                                                                     |                          
+| Monday     | Think proposal and start to write draft                       |                       |  Write down my ideas on draft            
+| Tuesday    | Continue to wirte and think about the feasibility             |                       |  Remove infeasible content                                    
+| Wednesday  | Set up environment and create html,css,js files               |                       |  Connect with github                                               
+| Thursday   | Post proposal and start to write game                         |                       |  Think about the game layout                                        
+| Friday     | Wirte basic scaffolding                                       |                       | Think about how to add more features                                
+| Monday     | Wirte more features and enrich the game content               |                       | Check the effect of the features                                              
+| Tuesday    | Repeatedly test the running effect and smoothness of the game |                       |  Invite partner to play and take advices                                         
+| Wednesday  | Improve game content and wirte MVP and stretch goals          |                       |  Test the game and check                                         
+| Thursday   | Presentation Day!                                             |                       |                          
 
 
 
