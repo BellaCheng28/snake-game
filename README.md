@@ -51,17 +51,17 @@ Create your own table using this markdown table generator website:
 
 
 Do not neglect to plan, you will thank yourself later for being proactive!
-| Day        |   | Task                                                 |Blockers                      | Notes/ Thoughts                  
-|------------|---|------------------------------------------------------|-----------------------------|-----------------------------------
-| Monday     |   | Create proposal and put files together                                                                   
-| Tuesday    |   | Create html, js, css files                                                                            
-| Wednesday  |   | Create basic scaffolding                                                                                      
-| Thursday   |   | Add functionality                                                                                               
-| Friday     |   | Add styling                                                                                                    
-| Monday     |   | Finaliza MVP                                                                                                    
-| Tuesday    |   | Work on stretch goals                                                                                           
-| Wednesday  |   |Work on icebox items if applicable                                                                              
-| Thursday   |   |Presentation Day!                                                                                                
+| Day        |    Task                                                 |Blockers                      | Notes/ Thoughts                  
+|------------|---------------------------------------------------------|-----------------------------|-----------------------------------
+| Monday     |    Create proposal and put files together                                                                   
+| Tuesday    |    Create html, js, css files                                                                            
+| Wednesday  |    Create basic scaffolding                                                                                      
+| Thursday   |    Add functionality                                                                                               
+| Friday     |    Add styling                                                                                                    
+| Monday     |    Finaliza MVP                                                                                                    
+| Tuesday    |    Work on stretch goals                                                                                           
+| Wednesday  |    Work on icebox items if applicable                                                                              
+| Thursday   |    Presentation Day!                                                                                                
 
 
 
