@@ -53,7 +53,7 @@ Create your own table using this markdown table generator website:
 Do not neglect to plan, you will thank yourself later for being proactive!
 | Day        |   | Task                               | Blockers | Notes/ Thoughts |
 |------------|---|------------------------------------|----------|-----------------|
-| Monday     |   | Create and present proposal        |          |                 |
+| Monday     |   | Create and present proposaldjdk                                |          |                 |
 | Tuesday    |   | Create html, js, css files         |          |                 |
 | Wednesday  |   | Create basic scaffolding           |          |                 |
 | Thursday   |   | Add functionality                  |          |                 |
