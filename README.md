@@ -76,14 +76,15 @@ Do not neglect to plan, you will thank yourself later for being proactive!
   - We'll need a reference to a DOM element to display messages,use the 
       querySelector method to select gameBoard score and reset bottom as so on. 
 
- 3) setting rules for snake game 
+ 3) Setting rules for snake game 
   - While game is runnig,clear screen,update snake position based on direction.Check 
     for collision
        - if collision with food (grow snake,increase score,draw new food),
        - if collision with wall or itself( game over)
        - else no collision,snake keeps going and wait for player input to change 
          direction
-  4)Use function and others methods to wirte basic scaffolding
+         
+  4) Use function and others methods to wirte basic scaffolding
    - Function grow snake:add new snakePart to snake at the front
    - Function change direction:press up key,the snake goes up;press down key,the 
      snake goes down;press left,the snake goes right.
