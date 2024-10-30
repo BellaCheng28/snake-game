@@ -84,7 +84,7 @@ Do not neglect to plan, you will thank yourself later for being proactive!
        - else no collision,snake keeps going and wait for player input to change 
          direction
          
-  4) Use function and others methods to wirte basic scaffolding
+  4) Use function and others methods to wirte game
    - Function grow snake:add new snakePart to snake at the front
    - Function change direction:press up key,the snake goes up;press down key,the 
      snake goes down;press left,the snake goes right.
