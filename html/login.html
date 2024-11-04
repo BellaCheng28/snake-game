@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>sign up</title>
+    <link rel="stylesheet" href="../css/login.css" />
+  </head>
+  <body>
+    <div class="login">
+      <h1>Login</h1>
+      <form action="register.php" method="post">
+        <input
+          style="margin-bottom: 30px"
+          type="email"
+          name="email"
+          placeholder="Enter your email"
+          required
+        />
+        <input
+          style="margin-bottom: 30px"
+          type="password"
+          name="password"
+          placeholder="Enter your password"
+        />
+        <input class="lg1" type="button" value="Login" onclick="login()" />
+        <script>
+          function login() {
+            window.location.href = "snake.html";
+          }
+        </script>
+      </form>
+    </div>
+  </body>
+</html>

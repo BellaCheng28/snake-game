@@ -1,0 +1,78 @@
+#gameContainer{
+    text-align: center;
+
+}
+#gameBoard{
+    background-color: rgb(184, 243, 184);
+    border: 1px solid;
+    border: solid 1px;
+    position: absolute;
+    z-index:1;
+}
+.grid{
+    height:500px;
+    width: 500px;
+    background-image: 
+    linear-gradient(to right,rgb(27, 26, 26),1px , transparent 1px),
+    linear-gradient(to bottom,rgb(10, 10, 10),1px,transparent 1px);
+    background-size: 25px 25px;
+    position: absolute;
+    border:solid 1px black;
+    z-index: 2;
+  }
+h1{
+    font-family: "SimSuncss";
+    margin: 10px;
+      
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "SimSuncss"; 
+    font-size: 22px;
+   
+}
+#difficulty{
+    margin-right:50px;
+    align-items: center;
+   
+}
+
+#score{
+    display: flex; 
+    align-items: center;
+    margin-right: 50px;
+}
+
+#scoreText{
+    font-family: "Arial";
+    font-size: 40px;
+    color: darkred;
+   
+}
+#resetBtn{
+    font-family: "SimSuncss";
+    font-size: 22px;
+    width: 80px;
+    height: 35px;
+    border: 2px solid;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 20px;
+    background-color: plum;
+}
+#startBtn {
+    font-family: "SimSuncss";
+    font-size: 22px;
+    width: 80px;
+    height: 35px;
+    border: 2px solid;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: yellowgreen;
+}
+
+
+
+  
