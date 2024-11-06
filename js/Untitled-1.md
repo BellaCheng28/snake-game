@@ -1,14 +1,5 @@
-| Day    |     | Task                                                                                                                                                     | Blockers | Notes/ Thoughts |
-| ------ | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------- |
-| Monday |     | Create proposal, and start putting the game togther  |
-| Tuesday | | Create html, js, css files | | |
-| Wednesday | | Create basic scaffolding | | |
-| Thursday | | Add functionality | | |
-| Friday | | Add styling | | |
-| Monday | | Finaliza MVP | | |
-| Tuesday | | Work on stretch goals | | |
-| Wednesday | |Work on icebox items if applicable | | |
-| Thursday | |Presentation Day! | | |
+## Project Description 
 
+My app is called snake game. It's a game app for players who want to play snake games online. It is a timeless arcade-style game where players control a growing snake that must navigate a grid,eat food to increase its length.and avoid colliding with walls or its own tail.The objective is to score as high as possible while managing the increasing difficulty as the snake grows.
 
-1.the User Stories aren't compelet，somethings may not consider about. 1.on the top of the image ,attach the score and level 2.when i wirte Wire Frames ,i don't know how to change image to link.  2.when the game is over,the screen should display the 3.when it comes to notionboard,i have no ideas                           results.
+## Wire Frames  
