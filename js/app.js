@@ -1,16 +1,15 @@
 const gameBoard = document.querySelector("#gameBoard");
 const ctx = gameBoard.getContext("2d");
 const scoreText = document.querySelector("#scoreText");
-const resetBtn = document.querySelector("#resetBtn");
+const startBtn = document.querySelector("#startBtn");
 const playerSelected = document.querySelector("#selected")
-const startBtn =document.querySelector('#startBtn')
 
 const gameWidth = gameBoard.width;
 const gameHeight = gameBoard.height;
-const boardBackground = "rgb(184, 243, 184)";
-const snakeColor = "red";
-const snakeBorder = "#6fc2f7";
-const foodColor = "blue";
+const boardBackground = "rgb(209, 248, 240)";
+const snakeColor = "pink";
+const snakeBorder = "yellow";
+const foodColor = "rgb(142, 148, 241)";
 const unitSize = 25;
 
 
@@ -30,33 +29,10 @@ let snake = [
 ];
 
 window.addEventListener("keydown", changeDirection);
-startBtn.addEventListener('click',gameStart);
-resetBtn.addEventListener("click", resetGame);
+startBtn.addEventListener("click", resetGame);
 playerSelected.addEventListener('change',() => {
     setSpeed();
 });
-
-
-// set 4 kinds of speeds for player choosing 
-
-function setSpeed(){
-    switch(playerSelected.value)
-    {
-        case 'easy':
-            snakeSpeed = 300;
-            break;
-        case 'normal':
-            snakeSpeed = 200;
-            break;
-        case 'difficulty':
-            snakeSpeed = 150;
-            break;
-        case 'hell':
-            snakeSpeed = 70;
-            break;
-    }
-}
-
 
 
 function gameStart(){
@@ -90,24 +66,6 @@ function clearBoard(){
     ctx.fillRect(0, 0, gameWidth, gameHeight);
 };
 
-// function createFood(){
-//     let newFood;
-//     const occupiedPositions = new Set(snake.map(segment => `${segment.x},${segment.y}`));
-//     do{
-//         newFood ={
-//             x:Math.floor(Math.random()*20),
-//             y:Math.floor(Math.random()*20)
-//         };
-        
-//     } while (occupiedPositions.has(`${newFood.x},${newFood.y}`));
-
-//     foodX = newFood
-//     foodY = newFood
-
-// } ;
-
-
-
 function createFood(){
     function randomFood(min, max){
         const randNum = Math.round((Math.random() * (max - min) + min) / unitSize) * unitSize;
@@ -121,7 +79,7 @@ function createFood(){
 };
 
 function isFoodOnSnake(x,y){
-    return snake.some(segment => segment.x ===x/unitSize && segment.y === y/unitSize);
+    return snake.some(segment => segment.x ===x && segment.y === y);
 }
 
 function drawFood(){
@@ -203,6 +161,26 @@ function checkGameOver(){
         }
     }
 };
+
+// set 4 kinds of speeds for player choosing 
+
+function setSpeed(){
+    switch(playerSelected.value)
+    {
+        case 'easy':
+            snakeSpeed = 260;
+            break;
+        case 'normal':
+            snakeSpeed = 180;
+            break;
+        case 'difficulty':
+            snakeSpeed = 120;
+            break;
+        case 'hell':
+            snakeSpeed = 70;
+            break;
+    }
+}
 function displayGameOver(){
     ctx.font = "40px SimSuncss";
     ctx.fillStyle = "black";
@@ -223,6 +201,4 @@ function resetGame(){
     ];
     gameStart();
 };
-
-
 

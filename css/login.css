@@ -7,9 +7,8 @@ body {
   }
 
 .login {
-    position: fixed;
-    top: 20%;
-    left: 20%;
+    /* 将盒左右外边框设置为auto，外边句可以让会计盒子水平居中 */
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,7 +16,7 @@ body {
     width: 500px;
     height: 500px;
     border: lightgray 1px solid;
-    background-color: white;
+    background-color: rgb(209, 248, 240);
 }
 
 input {
