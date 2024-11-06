@@ -14,12 +14,12 @@ My app is called snake game. It's a game app for players who want to play snake 
 ![image](https://github.com/BellaCheng28/snake-game/blob/main/images/Game%20frames.png)
 
 **Login**
-![[image](https://github.com/BellaCheng28/snake-game/blob/main/images/creat%20account.png)
-![[image](https://github.com/BellaCheng28/snake-game/blob/main/images/login.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/creat%20account.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/login.png)
 
 **Initial Landing View**
-![[image](https://github.com/BellaCheng28/snake-game/blob/main/images/gameboard.png)
-![[image](https://github.com/BellaCheng28/snake-game/blob/main/images/palyerchoice.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/gameboard.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/palyerchoice.png)
 
 
 **Results View**
