@@ -11,13 +11,22 @@ My app is called snake game. It's a game app for players who want to play snake 
 
 ## Wire Frames
 
-**Initial Landing View**
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/Game%20frames.png)
 
-![image](https://github.com/BellaCheng28/snake-game/blob/main/1.png)
+**Login**
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/creat%20account.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/login.png)
+
+**Initial Landing View**
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/gameboard.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/palyerchoice.png)
+
 
 **Results View**
 
-![image](https://github.com/BellaCheng28/snake-game/blob/main/2.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/gameover.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/gameover2.png)
+![image](https://github.com/BellaCheng28/snake-game/blob/main/images/gameover3.png)
 
 ## User Stories
 
@@ -27,7 +36,7 @@ My app is called snake game. It's a game app for players who want to play snake 
 - As a player, I want  my snake eats food and grow longer ,so that i can see my progress
 - As a player, I want to display my score on the screen,so that I know my performance.
 - As a player, I want to know which level  stage i played.so that i know the snake game is easy or difficult .
-- As a player, I want to know if the game is over when my snake collides with the wall or the snake 's own or other’s body,so that i know the game rules.
+- As a player, I want to know if the game is over when my snake collides with the wall or itself,so that i know the game rules.
 - As a player, I would like to be able to restart the game after a win, loss or tie.
 - As a player, I want the UI to be engaging and out of the way so that I enjoy the experience of playing the game.
 
