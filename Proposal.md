@@ -1,4 +1,12 @@
 # Project Proposal 
+Project List
+## Project Choice
+## Project Description 
+## Wire Frames
+## User Stories
+## MVP Goals
+## Stretch Goals
+## Timeline - Daily Accountability
 
 ## Project Choice (Tell us which project you're doing!)
 
