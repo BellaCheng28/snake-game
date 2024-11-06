@@ -3,7 +3,7 @@
 
 }
 #gameBoard{
-    background-color: rgb(184, 243, 184);
+    background-color: #b4fcde;
     border: 1px solid;
     border: solid 1px;
     position: absolute;
@@ -13,11 +13,11 @@
     height:500px;
     width: 500px;
     background-image: 
-    linear-gradient(to right,rgb(27, 26, 26),1px , transparent 1px),
-    linear-gradient(to bottom,rgb(10, 10, 10),1px,transparent 1px);
+    linear-gradient(to right,gray,0.5px , transparent 1px),
+    linear-gradient(to bottom,gray,0.5px,transparent 1px);
     background-size: 25px 25px;
     position: absolute;
-    border:solid 1px black;
+    border:solid 1px gray;
     z-index: 2;
   }
 h1{
@@ -48,29 +48,19 @@ h1{
 #scoreText{
     font-family: "Arial";
     font-size: 40px;
-    color: darkred;
+    color: rgb(246, 6, 6);
    
 }
-#resetBtn{
-    font-family: "SimSuncss";
-    font-size: 22px;
-    width: 80px;
-    height: 35px;
-    border: 2px solid;
-    border-radius: 10px;
-    cursor: pointer;
-    margin-left: 20px;
-    background-color: plum;
-}
+
 #startBtn {
     font-family: "SimSuncss";
     font-size: 22px;
     width: 80px;
     height: 35px;
-    border: 2px solid;
+    border: 1px solid;
     border-radius: 10px;
     cursor: pointer;
-    background-color: yellowgreen;
+    background-color: #f6bef6;
 }
 
 
