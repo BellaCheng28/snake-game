@@ -46,7 +46,7 @@ My app is called snake game. It's a game app for players who want to play snake 
 - Display the score on the screen.
 - End the game when the snake collides with itself or the walls.
 - Provide feedback to the player, such as a game over message and the final score.
-- Allow player to pause the game and continue later within couple minutes
+
 
 
 #### Notionboard Template
